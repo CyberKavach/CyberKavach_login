@@ -83,7 +83,7 @@
                             <a class="an" href="https://cyberkavach.epizy.com/login/login.html" style="color:blue">Case Studies</a>
                         </li>
                         <li>
-                            <a class="an" href="https://cyberkavach.epizy.com/login/login.html" style="color:blue">Latest-News</a>
+                            <a class="an" href="https://cyberkavach.epizy.com/login/login.html" style="color:blue">Cyber-News</a>
                         </li>
                         <li>
                             <a class="an" href="https://cyberkavach.epizy.com/login/login.html" style="color:blue">Fakebusters</a>
